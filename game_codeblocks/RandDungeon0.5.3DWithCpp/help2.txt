@@ -1,0 +1,46 @@
+monster options
+1 - size of effect
+2 - rand
+3 - time of effect
+4 - time
+5 - dist
+6 - param
+
+parameters: at start level, rand add, add at level, max  
+ 
+market
+num of types markets
+
+num of buy things
+multiobj thing(rand - cost) ...
+
+num of coins
+multiobj coin(rand - cost) ...
+
+chest
+num
+
+multiobj thing ...
+
+thing - blocks
+
+num
+
+multiobj block ...
+
+rand for block  - start, level add, rand add, max (?)
+
+monster type:
+ speed,
+ attack,
+ type for search player,
+ max lives, 
+ shild,
+ range,
+ jump,
+ search player range,
+ time (destroy wall),
+ add to player game level,
+ range of effect, 
+ 
+ 0 - start, 1 - level add, 2 - rand add, 3 - max

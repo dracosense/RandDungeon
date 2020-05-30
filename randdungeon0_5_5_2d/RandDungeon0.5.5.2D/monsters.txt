@@ -1,0 +1,1 @@
+// monster type; speed, atack, type for search player, max lives, shild, range, jump, search player range, time (destroy wall)
